@@ -1,0 +1,3 @@
+Skills : npm install react-multi-carousel
+Banner : npm install react-on-screen, npm install animate.css, npm install react-bootstrap-icons
+Navbar : npm install react-router-dom, npm install react-router-hash-link  
